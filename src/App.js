@@ -2,9 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 import SayHello from './SayHello';
 import Hello from './Hello';
-import ChangeEvent from './component/chap01 event/ChangeEvent';
-import ClickEvent from './component/chap01 event/ClickEvent';
-import SubmitEvent from './component/chap01 event/SubmitEvent';
+import ChangeEvent from './component/chap01_event/ChangeEvent';
+import ClickEvent from './component/chap01_event/ClickEvent';
+import SubmitEvent from './component/chap01_event/SubmitEvent';
 import FoodList from './component/chap02_props/FoodList';
 
 //리액트에서는 하나의 컴포넌트가 여러개의 엘리먼트를 반환할 수 있다.
